@@ -4,6 +4,9 @@
 
 [blog.kangfenmao.com](https://blog.kangfenmao.com)
 
+## Website
+[kangfenmao.com](https://kangfenmao.com)
+
 <!--
 **kangfenmao/kangfenmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

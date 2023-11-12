@@ -7,6 +7,9 @@
 ## Website
 [kangfenmao.com](https://kangfenmao.com)
 
+## EasyRun Git
+[git.easys.run](https://git.easys.run)
+
 <!--
 **kangfenmao/kangfenmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

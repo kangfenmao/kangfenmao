@@ -7,7 +7,7 @@
 ## Website
 [kangfenmao.com](https://kangfenmao.com)
 
-## EasyRun Git
+## Gitea
 [git.easys.run](https://git.easys.run)
 
 <!--

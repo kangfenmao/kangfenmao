@@ -41,9 +41,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/kangfenmao/vortexnotes/issues/3) in [kangfenmao/vortexnotes](https://github.com/kangfenmao/vortexnotes)
-2. ❗ Opened issue [#2](https://github.com/kangfenmao/vortexnotes/issues/2) in [kangfenmao/vortexnotes](https://github.com/kangfenmao/vortexnotes)
-3. ❗ Opened issue [#1](https://github.com/kangfenmao/vortex-notes/issues/1) in [kangfenmao/vortex-notes](https://github.com/kangfenmao/vortex-notes)
-4. 🗣 Commented on [#2903](https://github.com/1Panel-dev/1Panel/issues/2903#issuecomment-1807548444) in [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-5. 🗣 Commented on [#2903](https://github.com/1Panel-dev/1Panel/issues/2903#issuecomment-1807405871) in [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
+1. 🔒 Closed issue [#1](https://github.com/kangfenmao/vortexnotes/issues/1) in [kangfenmao/vortexnotes](https://github.com/kangfenmao/vortexnotes)
+2. 🔒 Closed issue [#3](https://github.com/kangfenmao/vortexnotes/issues/3) in [kangfenmao/vortexnotes](https://github.com/kangfenmao/vortexnotes)
+3. ❗ Opened issue [#3](https://github.com/kangfenmao/vortexnotes/issues/3) in [kangfenmao/vortexnotes](https://github.com/kangfenmao/vortexnotes)
+4. ❗ Opened issue [#2](https://github.com/kangfenmao/vortexnotes/issues/2) in [kangfenmao/vortexnotes](https://github.com/kangfenmao/vortexnotes)
+5. ❗ Opened issue [#1](https://github.com/kangfenmao/vortex-notes/issues/1) in [kangfenmao/vortex-notes](https://github.com/kangfenmao/vortex-notes)
 <!--END_SECTION:activity-->

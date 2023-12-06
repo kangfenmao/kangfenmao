@@ -4,6 +4,7 @@
 
 Site: [kangfenmao.com](https://kangfenmao.com)  
 Blog: [blog.kangfenmao.com](https://blog.kangfenmao.com)  
+Notes: [vortex.kangfenmao.com](https://vortex.kangfenmao.com)  
 Gitea: [git.easys.run](https://git.easys.run)  
 
 ## Things I code with

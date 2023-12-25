@@ -16,6 +16,7 @@ Gitea: [git.easys.run](https://git.easys.run)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square)
 
 ##### DevOps
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -44,6 +45,7 @@ Gitea: [git.easys.run](https://git.easys.run)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
 ![Realm Badge](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=flat-square)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat-square)
 
 ##### Web3
 [![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?logo=walletconnect&logoColor=fff&style=flat-square)](https://walletconnect.org/)

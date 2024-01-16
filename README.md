@@ -63,9 +63,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884084599) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-2. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884067097) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-3. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884046109) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-4. 🗣 Commented on [#3278](https://github.com/1Panel-dev/1Panel/issues/3278#issuecomment-1851255144) in [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-5. ❗ Opened issue [#3278](https://github.com/1Panel-dev/1Panel/issues/3278) in [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
+1. ❗ Opened issue [#1142](https://github.com/Bin-Huang/chatbox/issues/1142) in [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+2. ❗ Opened issue [#1073](https://github.com/lobehub/lobe-chat/issues/1073) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+3. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884084599) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+4. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884067097) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+5. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884046109) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 <!--END_SECTION:activity-->

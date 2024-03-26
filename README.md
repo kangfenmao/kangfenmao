@@ -63,9 +63,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/IjzerenHein/react-native-bundle-visualizer/issues/118#issuecomment-1951978334) in [IjzerenHein/react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer)
-2. ❗ Opened issue [#1142](https://github.com/Bin-Huang/chatbox/issues/1142) in [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
-3. ❗ Opened issue [#1073](https://github.com/lobehub/lobe-chat/issues/1073) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-4. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884084599) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-5. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884067097) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+1. 🗣 Commented on [#1734](https://github.com/lobehub/lobe-chat/issues/1734#issuecomment-2019239217) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+2. 🗣 Commented on [#118](https://github.com/IjzerenHein/react-native-bundle-visualizer/issues/118#issuecomment-1951978334) in [IjzerenHein/react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer)
+3. ❗ Opened issue [#1142](https://github.com/Bin-Huang/chatbox/issues/1142) in [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+4. ❗ Opened issue [#1073](https://github.com/lobehub/lobe-chat/issues/1073) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+5. 🗣 Commented on [#701](https://github.com/lobehub/lobe-chat/issues/701#issuecomment-1884084599) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 <!--END_SECTION:activity-->

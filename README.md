@@ -63,9 +63,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/deepseek-ai/awesome-deepseek-integration/issues/16) in [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
-2. 🗣 Commented on [#2024](https://github.com/lobehub/lobe-chat/issues/2024#issuecomment-2120082574) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-3. 🗣 Commented on [#118](https://github.com/IjzerenHein/react-native-bundle-visualizer/issues/118#issuecomment-2110120135) in [IjzerenHein/react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer)
-4. ❗ Opened issue [#1317](https://github.com/Bin-Huang/chatbox/issues/1317) in [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
-5. ❗ Opened issue [#3](https://github.com/Meqn/mp-request-promise/issues/3) in [Meqn/mp-request-promise](https://github.com/Meqn/mp-request-promise)
+1. 🚀 Published release [v0.1.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.1.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🚀 Published release [v0.1.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.1.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+3. ❗ Opened issue [#16](https://github.com/deepseek-ai/awesome-deepseek-integration/issues/16) in [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+4. 🗣 Commented on [#2024](https://github.com/lobehub/lobe-chat/issues/2024#issuecomment-2120082574) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+5. 🗣 Commented on [#118](https://github.com/IjzerenHein/react-native-bundle-visualizer/issues/118#issuecomment-2110120135) in [IjzerenHein/react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer)
 <!--END_SECTION:activity-->

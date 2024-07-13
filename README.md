@@ -63,9 +63,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.1.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-2. 🚀 Published release [v0.1.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.1.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. ❗ Opened issue [#16](https://github.com/deepseek-ai/awesome-deepseek-integration/issues/16) in [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
-4. 🗣 Commented on [#2024](https://github.com/lobehub/lobe-chat/issues/2024#issuecomment-2120082574) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-5. 🗣 Commented on [#118](https://github.com/IjzerenHein/react-native-bundle-visualizer/issues/118#issuecomment-2110120135) in [IjzerenHein/react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer)
+1. 🗣 Commented on [#8259](https://github.com/electron-userland/electron-builder/issues/8259#issuecomment-2225941489) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+2. 🗣 Commented on [#8258](https://github.com/electron-userland/electron-builder/issues/8258#issuecomment-2225941302) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
+3. 🗣 Commented on [#1](https://github.com/kangfenmao/cherry-studio/issues/1#issuecomment-2225911268) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+4. ❗ Opened issue [#1](https://github.com/kangfenmao/cherry-studio/issues/1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 🚀 Published release [v0.1.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.1.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

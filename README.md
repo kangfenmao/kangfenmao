@@ -64,8 +64,8 @@ Gitea: [git.easys.run](https://git.easys.run)
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v0.2.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-2. 🚀 Published release [v0.1.1](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.1.1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#8259](https://github.com/electron-userland/electron-builder/issues/8259#issuecomment-2225941489) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-4. 🗣 Commented on [#8258](https://github.com/electron-userland/electron-builder/issues/8258#issuecomment-2225941302) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-5. 🗣 Commented on [#1](https://github.com/kangfenmao/cherry-studio/issues/1#issuecomment-2225911268) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🚀 Published release [v2.0.7](https://github.com/kangfenmao/action-gh-release/releases/tag/v2.0.7) in [kangfenmao/action-gh-release](https://github.com/kangfenmao/action-gh-release)
+3. 🚀 Published release [v0.2.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+4. 🚀 Published release [v0.2.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 🚀 Published release [v0.2.0](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.0) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

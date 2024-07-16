@@ -63,9 +63,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/kangfenmao/cherry-studio/issues/1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-2. 🚀 Published release [v0.2.2](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.2) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#6951](https://github.com/electron-userland/electron-builder/issues/6951#issuecomment-2227992474) in [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-4. 🚀 Published release [v0.2.1](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-5. 🚀 Published release [v0.2.1](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+1. 🔒 Closed issue [#1](https://github.com/kangfenmao/react-naitve-wechat-sdk/issues/1) in [kangfenmao/react-naitve-wechat-sdk](https://github.com/kangfenmao/react-naitve-wechat-sdk)
+2. 🔒 Closed issue [#2](https://github.com/kangfenmao/react-naitve-wechat-sdk/issues/2) in [kangfenmao/react-naitve-wechat-sdk](https://github.com/kangfenmao/react-naitve-wechat-sdk)
+3. 🔒 Closed issue [#46](https://github.com/marcusmolchany/react-jazzicon/issues/46) in [marcusmolchany/react-jazzicon](https://github.com/marcusmolchany/react-jazzicon)
+4. 🔒 Closed issue [#1](https://github.com/deep-project/moss/issues/1) in [deep-project/moss](https://github.com/deep-project/moss)
+5. 🔒 Closed issue [#2](https://github.com/varHarrie/vscode-import-beautify/issues/2) in [varHarrie/vscode-import-beautify](https://github.com/varHarrie/vscode-import-beautify)
 <!--END_SECTION:activity-->

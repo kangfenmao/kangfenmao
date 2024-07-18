@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangfenmao)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Website
 
 Site: [kangfenmao.com](https://kangfenmao.com)  

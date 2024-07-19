@@ -54,9 +54,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5763](https://github.com/ollama/ollama/pull/5763) in [ollama/ollama](https://github.com/ollama/ollama)
-2. 💪 Opened PR [#25](https://github.com/stackia/best-windows-apps/pull/25) in [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps)
-3. 🔒 Closed issue [#18](https://github.com/jpush/jverification-react-native/issues/18) in [jpush/jverification-react-native](https://github.com/jpush/jverification-react-native)
-4. 🔒 Closed issue [#1](https://github.com/hellosean1025/watch-props/issues/1) in [hellosean1025/watch-props](https://github.com/hellosean1025/watch-props)
-5. 🔒 Closed issue [#1](https://github.com/kangfenmao/react-naitve-wechat-sdk/issues/1) in [kangfenmao/react-naitve-wechat-sdk](https://github.com/kangfenmao/react-naitve-wechat-sdk)
+1. 🗣 Commented on [#2](https://github.com/kangfenmao/cherry-studio/issues/2#issuecomment-2238750651) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🗣 Commented on [#2](https://github.com/kangfenmao/cherry-studio/issues/2#issuecomment-2238597090) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+3. 🗣 Commented on [#2](https://github.com/kangfenmao/cherry-studio/issues/2#issuecomment-2238593346) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+4. 🚀 Published release [v0.2.7](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.2.7) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 💪 Opened PR [#5763](https://github.com/ollama/ollama/pull/5763) in [ollama/ollama](https://github.com/ollama/ollama)
 <!--END_SECTION:activity-->

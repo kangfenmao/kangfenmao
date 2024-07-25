@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249550086) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-2. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249525069) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249515484) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-4. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249512312) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-5. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249505241) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+1. 🗣 Commented on [#6](https://github.com/kangfenmao/cherry-studio/issues/6#issuecomment-2250008164) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🗣 Commented on [#6](https://github.com/kangfenmao/cherry-studio/issues/6#issuecomment-2249877997) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+3. 🗣 Commented on [#6](https://github.com/kangfenmao/cherry-studio/issues/6#issuecomment-2249803729) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+4. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249550086) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 🗣 Commented on [#7](https://github.com/kangfenmao/cherry-studio/issues/7#issuecomment-2249525069) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

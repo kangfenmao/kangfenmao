@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.9](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.3.9) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-2. 🚀 Published release [v0.3.8](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.3.8) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#6](https://github.com/kangfenmao/cherry-studio/issues/6#issuecomment-2254222014) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-4. 🔒 Closed issue [#6](https://github.com/kangfenmao/cherry-studio/issues/6) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-5. 🚀 Published release [v0.3.8](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.3.8) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+1. 🔒 Closed issue [#72](https://github.com/GetuiLaboratory/react-native-getui/issues/72) in [GetuiLaboratory/react-native-getui](https://github.com/GetuiLaboratory/react-native-getui)
+2. 🔒 Closed issue [#1](https://github.com/fengdi/miniapp-spore/issues/1) in [fengdi/miniapp-spore](https://github.com/fengdi/miniapp-spore)
+3. 🔒 Closed issue [#227](https://github.com/react-native-datetimepicker/datetimepicker/issues/227) in [react-native-datetimepicker/datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker)
+4. 🔒 Closed issue [#6](https://github.com/1556173267/react-native-apk-manager/issues/6) in [1556173267/react-native-apk-manager](https://github.com/1556173267/react-native-apk-manager)
+5. 🚀 Published release [v0.4.1](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.4.1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

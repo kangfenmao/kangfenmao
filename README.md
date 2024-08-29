@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/electron/notarize/pull/194#issuecomment-2312213912) in [electron/notarize](https://github.com/electron/notarize)
-2. 🗣 Commented on [#31](https://github.com/kangfenmao/cherry-studio/issues/31#issuecomment-2304448235) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#32](https://github.com/kangfenmao/cherry-studio/issues/32#issuecomment-2304446778) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-4. 🔒 Closed issue [#32](https://github.com/kangfenmao/cherry-studio/issues/32) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-5. 🚀 Published release [v0.6.1](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.6.1) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+1. 🗣 Commented on [#19](https://github.com/kangfenmao/cherry-studio/issues/19#issuecomment-2317310736) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🗣 Commented on [#194](https://github.com/electron/notarize/pull/194#issuecomment-2312213912) in [electron/notarize](https://github.com/electron/notarize)
+3. 🗣 Commented on [#31](https://github.com/kangfenmao/cherry-studio/issues/31#issuecomment-2304448235) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+4. 🗣 Commented on [#32](https://github.com/kangfenmao/cherry-studio/issues/32#issuecomment-2304446778) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 🔒 Closed issue [#32](https://github.com/kangfenmao/cherry-studio/issues/32) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

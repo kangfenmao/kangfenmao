@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/FrancoStino/commitgroq/issues/1) in [FrancoStino/commitgroq](https://github.com/FrancoStino/commitgroq)
-2. 🗣 Commented on [#36](https://github.com/kangfenmao/cherry-studio/issues/36#issuecomment-2339888365) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#59](https://github.com/kangfenmao/cherry-studio/issues/59#issuecomment-2339697315) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-4. 🗣 Commented on [#59](https://github.com/kangfenmao/cherry-studio/issues/59#issuecomment-2339673667) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-5. 🗣 Commented on [#58](https://github.com/kangfenmao/cherry-studio/issues/58#issuecomment-2339426570) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+1. 🗣 Commented on [#60](https://github.com/kangfenmao/cherry-studio/issues/60#issuecomment-2342520649) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🗣 Commented on [#59](https://github.com/kangfenmao/cherry-studio/issues/59#issuecomment-2342519053) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+3. ❗ Opened issue [#1](https://github.com/FrancoStino/commitgroq/issues/1) in [FrancoStino/commitgroq](https://github.com/FrancoStino/commitgroq)
+4. 🗣 Commented on [#36](https://github.com/kangfenmao/cherry-studio/issues/36#issuecomment-2339888365) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 🗣 Commented on [#59](https://github.com/kangfenmao/cherry-studio/issues/59#issuecomment-2339697315) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

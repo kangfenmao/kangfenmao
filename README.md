@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/kangfenmao/cherry-studio/issues/123#issuecomment-2373182617) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-2. 🗣 Commented on [#123](https://github.com/kangfenmao/cherry-studio/issues/123#issuecomment-2373166164) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-3. 🗣 Commented on [#122](https://github.com/kangfenmao/cherry-studio/issues/122#issuecomment-2373108985) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-4. 🚀 Published release [v0.7.8](https://github.com/kangfenmao/cherry-studio/releases/tag/v0.7.8) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
-5. 🔒 Closed issue [#93](https://github.com/kangfenmao/cherry-studio/issues/93) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+1. 🔓 Reopened issue [#95](https://github.com/kangfenmao/cherry-studio/issues/95) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+2. 🗣 Commented on [#36](https://github.com/deepseek-ai/awesome-deepseek-integration/pull/36#issuecomment-2373860804) in [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+3. 🗣 Commented on [#111](https://github.com/kangfenmao/cherry-studio/issues/111#issuecomment-2373597364) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+4. 🗣 Commented on [#123](https://github.com/kangfenmao/cherry-studio/issues/123#issuecomment-2373182617) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
+5. 🗣 Commented on [#123](https://github.com/kangfenmao/cherry-studio/issues/123#issuecomment-2373166164) in [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio)
 <!--END_SECTION:activity-->

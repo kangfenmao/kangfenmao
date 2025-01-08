@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#667](https://github.com/CherryHQ/cherry-studio/issues/667) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#667](https://github.com/CherryHQ/cherry-studio/issues/667#issuecomment-2576605441) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🔒 Closed issue [#638](https://github.com/CherryHQ/cherry-studio/issues/638) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#606](https://github.com/CherryHQ/cherry-studio/issues/606#issuecomment-2576603361) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🔒 Closed issue [#606](https://github.com/CherryHQ/cherry-studio/issues/606) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🚀 Published release [v0.9.5](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.5) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#571](https://github.com/softprops/action-gh-release/issues/571#issuecomment-2577240138) in [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+3. 🗣 Commented on [#571](https://github.com/softprops/action-gh-release/issues/571#issuecomment-2577222347) in [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+4. ❗ Opened issue [#571](https://github.com/softprops/action-gh-release/issues/571) in [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+5. 🗣 Commented on [#688](https://github.com/CherryHQ/cherry-studio/issues/688#issuecomment-2577085569) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

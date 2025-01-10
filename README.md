@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#589](https://github.com/CherryHQ/cherry-studio/issues/589) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#589](https://github.com/CherryHQ/cherry-studio/issues/589#issuecomment-2577972102) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🔒 Closed issue [#594](https://github.com/CherryHQ/cherry-studio/issues/594) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#594](https://github.com/CherryHQ/cherry-studio/issues/594#issuecomment-2577970699) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🔒 Closed issue [#654](https://github.com/CherryHQ/cherry-studio/issues/654) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#613](https://github.com/CherryHQ/cherry-studio/issues/613#issuecomment-2579572894) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#695](https://github.com/CherryHQ/cherry-studio/issues/695#issuecomment-2579464216) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🚀 Published release [v0.9.6](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.6) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#571](https://github.com/softprops/action-gh-release/issues/571#issuecomment-2579432754) in [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+5. 🚀 Published release [v0.9.6](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.6) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

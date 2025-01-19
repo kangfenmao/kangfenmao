@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/CherryHQ/cherry-studio/issues/87#issuecomment-2600772000) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#656](https://github.com/CherryHQ/cherry-studio/pull/656#issuecomment-2600770465) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#736](https://github.com/CherryHQ/cherry-studio/pull/736#issuecomment-2600770332) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#742](https://github.com/CherryHQ/cherry-studio/pull/742#issuecomment-2600770017) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#87](https://github.com/CherryHQ/cherry-studio/issues/87#issuecomment-2600768311) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#1](https://github.com/BryceWG/TrackFlow/issues/1#issuecomment-2600900853) in [BryceWG/TrackFlow](https://github.com/BryceWG/TrackFlow)
+2. 🗣 Commented on [#1](https://github.com/BryceWG/TrackFlow/issues/1#issuecomment-2600898424) in [BryceWG/TrackFlow](https://github.com/BryceWG/TrackFlow)
+3. ❗ Opened issue [#1](https://github.com/BryceWG/TrackFlow/issues/1) in [BryceWG/TrackFlow](https://github.com/BryceWG/TrackFlow)
+4. 🗣 Commented on [#766](https://github.com/CherryHQ/cherry-studio/issues/766#issuecomment-2600893075) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#778](https://github.com/CherryHQ/cherry-studio/issues/778#issuecomment-2600892276) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

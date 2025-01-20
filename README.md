@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#783](https://github.com/CherryHQ/cherry-studio/pull/783) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🔒 Closed issue [#780](https://github.com/CherryHQ/cherry-studio/issues/780) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🎉 Merged PR [#785](https://github.com/CherryHQ/cherry-studio/pull/785) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🎉 Merged PR [#786](https://github.com/CherryHQ/cherry-studio/pull/786) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#1](https://github.com/BryceWG/TrackFlow/issues/1#issuecomment-2600900853) in [BryceWG/TrackFlow](https://github.com/BryceWG/TrackFlow)
+1. 🚀 Published release [v0.9.14](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.14) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🚀 Published release [v0.9.13](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.13) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🚀 Published release [v0.9.12](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.12) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🚀 Published release [v0.9.12](https://github.com/CherryHQ/cherry-studio/releases/tag/v0.9.12) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#787](https://github.com/CherryHQ/cherry-studio/issues/787#issuecomment-2601203104) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

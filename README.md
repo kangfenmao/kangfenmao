@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2123](https://github.com/CherryHQ/cherry-studio/issues/2123#issuecomment-2674219405) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#2124](https://github.com/CherryHQ/cherry-studio/issues/2124#issuecomment-2674208237) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#2107](https://github.com/CherryHQ/cherry-studio/issues/2107#issuecomment-2673947003) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🔒 Closed issue [#2107](https://github.com/CherryHQ/cherry-studio/issues/2107) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#2116](https://github.com/CherryHQ/cherry-studio/issues/2116#issuecomment-2673913107) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🎉 Merged PR [#2141](https://github.com/CherryHQ/cherry-studio/pull/2141) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🎉 Merged PR [#2143](https://github.com/CherryHQ/cherry-studio/pull/2143) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ❗ Opened issue [#181](https://github.com/kingparks/cursor-vip/issues/181) in [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip)
+4. 🗣 Commented on [#2123](https://github.com/CherryHQ/cherry-studio/issues/2123#issuecomment-2674219405) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#2124](https://github.com/CherryHQ/cherry-studio/issues/2124#issuecomment-2674208237) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

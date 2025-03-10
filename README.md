@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2341](https://github.com/CherryHQ/cherry-studio/issues/2341#issuecomment-2708901930) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#6215](https://github.com/flathub/flathub/pull/6215#issuecomment-2708901661) in [flathub/flathub](https://github.com/flathub/flathub)
-3. 🗣 Commented on [#2443](https://github.com/CherryHQ/cherry-studio/pull/2443#issuecomment-2708876859) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#2466](https://github.com/CherryHQ/cherry-studio/pull/2466#issuecomment-2708876464) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ❌ Closed PR [#2466](https://github.com/CherryHQ/cherry-studio/pull/2466) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#3106](https://github.com/CherryHQ/cherry-studio/pull/3106#issuecomment-2709151219) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#2341](https://github.com/CherryHQ/cherry-studio/issues/2341#issuecomment-2708901930) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#6215](https://github.com/flathub/flathub/pull/6215#issuecomment-2708901661) in [flathub/flathub](https://github.com/flathub/flathub)
+4. 🗣 Commented on [#2443](https://github.com/CherryHQ/cherry-studio/pull/2443#issuecomment-2708876859) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#2466](https://github.com/CherryHQ/cherry-studio/pull/2466#issuecomment-2708876464) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

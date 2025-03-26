@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.28](https://github.com/CherryHQ/embed-js/releases/tag/v0.1.28) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
-2. 🚀 Published release [v0.1.28](https://github.com/CherryHQ/embed-js/releases/tag/v0.1.28) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
-3. 🎉 Merged PR [#1](https://github.com/CherryHQ/embed-js/pull/1) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
-4. 💪 Opened PR [#1](https://github.com/CherryHQ/embed-js/pull/1) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
-5. 🗣 Commented on [#3883](https://github.com/CherryHQ/cherry-studio/pull/3883#issuecomment-2752834071) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🚀 Published release [v0.1.29](https://github.com/CherryHQ/embed-js/releases/tag/v0.1.29) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
+2. 🚀 Published release [v0.1.29](https://github.com/CherryHQ/embed-js/releases/tag/v0.1.29) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
+3. 🚀 Published release [v0.1.28](https://github.com/CherryHQ/embed-js/releases/tag/v0.1.28) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
+4. 🚀 Published release [v0.1.28](https://github.com/CherryHQ/embed-js/releases/tag/v0.1.28) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
+5. 🎉 Merged PR [#1](https://github.com/CherryHQ/embed-js/pull/1) in [CherryHQ/embed-js](https://github.com/CherryHQ/embed-js)
 <!--END_SECTION:activity-->

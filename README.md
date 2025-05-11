@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5858](https://github.com/CherryHQ/cherry-studio/pull/5858) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#5801](https://github.com/CherryHQ/cherry-studio/pull/5801#issuecomment-2868817603) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🔒 Closed issue [#5799](https://github.com/CherryHQ/cherry-studio/issues/5799) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🎉 Merged PR [#5439](https://github.com/CherryHQ/cherry-studio/pull/5439) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ❌ Closed PR [#5700](https://github.com/CherryHQ/cherry-studio/pull/5700) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🎉 Merged PR [#5801](https://github.com/CherryHQ/cherry-studio/pull/5801) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🎉 Merged PR [#5868](https://github.com/CherryHQ/cherry-studio/pull/5868) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🎉 Merged PR [#5858](https://github.com/CherryHQ/cherry-studio/pull/5858) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#5801](https://github.com/CherryHQ/cherry-studio/pull/5801#issuecomment-2868817603) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🔒 Closed issue [#5799](https://github.com/CherryHQ/cherry-studio/issues/5799) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

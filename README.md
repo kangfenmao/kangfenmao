@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3027132041) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3027021526) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3026867311) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3026856802) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🎉 Merged PR [#7717](https://github.com/CherryHQ/cherry-studio/pull/7717) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 💪 Opened PR [#7759](https://github.com/CherryHQ/cherry-studio/pull/7759) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3027132041) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3027021526) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3026867311) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#7748](https://github.com/CherryHQ/cherry-studio/pull/7748#issuecomment-3026856802) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/CherryHQ/cherry-studio-docs/pull/91) in [CherryHQ/cherry-studio-docs](https://github.com/CherryHQ/cherry-studio-docs)
-2. 🚀 Published release [Cherry Studio Enterprise Helm Chart v0.1.1](https://github.com/CherryHQ/cherry-studio-enterprise-helm/releases/tag/v0.1.1) in [CherryHQ/cherry-studio-enterprise-helm](https://github.com/CherryHQ/cherry-studio-enterprise-helm)
+1. 🗣 Commented on [#8969](https://github.com/CherryHQ/cherry-studio/issues/8969#issuecomment-3194346540) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🎉 Merged PR [#91](https://github.com/CherryHQ/cherry-studio-docs/pull/91) in [CherryHQ/cherry-studio-docs](https://github.com/CherryHQ/cherry-studio-docs)
 3. 🚀 Published release [Cherry Studio Enterprise Helm Chart v0.1.1](https://github.com/CherryHQ/cherry-studio-enterprise-helm/releases/tag/v0.1.1) in [CherryHQ/cherry-studio-enterprise-helm](https://github.com/CherryHQ/cherry-studio-enterprise-helm)
-4. 🚀 Published release [v0.1.1](https://github.com/CherryHQ/cherry-studio-enterprise-helm/releases/tag/v0.1.1) in [CherryHQ/cherry-studio-enterprise-helm](https://github.com/CherryHQ/cherry-studio-enterprise-helm)
-5. 🗣 Commented on [#8953](https://github.com/CherryHQ/cherry-studio/pull/8953#issuecomment-3182090741) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🚀 Published release [Cherry Studio Enterprise Helm Chart v0.1.1](https://github.com/CherryHQ/cherry-studio-enterprise-helm/releases/tag/v0.1.1) in [CherryHQ/cherry-studio-enterprise-helm](https://github.com/CherryHQ/cherry-studio-enterprise-helm)
+5. 🚀 Published release [v0.1.1](https://github.com/CherryHQ/cherry-studio-enterprise-helm/releases/tag/v0.1.1) in [CherryHQ/cherry-studio-enterprise-helm](https://github.com/CherryHQ/cherry-studio-enterprise-helm)
 <!--END_SECTION:activity-->

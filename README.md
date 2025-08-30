@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1069](https://github.com/sashabaranov/go-openai/pull/1069#issuecomment-3227825127) in [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
-2. 🗣 Commented on [#9494](https://github.com/CherryHQ/cherry-studio/issues/9494#issuecomment-3218370272) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#9386](https://github.com/CherryHQ/cherry-studio/pull/9386#issuecomment-3210010807) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 💪 Opened PR [#9386](https://github.com/CherryHQ/cherry-studio/pull/9386) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🔒 Closed issue [#9359](https://github.com/CherryHQ/cherry-studio/issues/9359) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 💪 Opened PR [#9681](https://github.com/CherryHQ/cherry-studio/pull/9681) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#1069](https://github.com/sashabaranov/go-openai/pull/1069#issuecomment-3227825127) in [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
+3. 🗣 Commented on [#9494](https://github.com/CherryHQ/cherry-studio/issues/9494#issuecomment-3218370272) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#9386](https://github.com/CherryHQ/cherry-studio/pull/9386#issuecomment-3210010807) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 💪 Opened PR [#9386](https://github.com/CherryHQ/cherry-studio/pull/9386) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

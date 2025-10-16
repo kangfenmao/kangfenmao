@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10726](https://github.com/CherryHQ/cherry-studio/issues/10726#issuecomment-3406615648) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#10718](https://github.com/CherryHQ/cherry-studio/pull/10718#issuecomment-3405536892) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#8988](https://github.com/vercel/ai/pull/8988#issuecomment-3401273841) in [vercel/ai](https://github.com/vercel/ai)
-4.  Assigned issue [#10650](https://github.com/CherryHQ/cherry-studio/issues/10650) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 💪 Opened PR [#10754](undefined) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#10726](https://github.com/CherryHQ/cherry-studio/issues/10726#issuecomment-3406615648) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#10718](https://github.com/CherryHQ/cherry-studio/pull/10718#issuecomment-3405536892) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#8988](https://github.com/vercel/ai/pull/8988#issuecomment-3401273841) in [vercel/ai](https://github.com/vercel/ai)
 5.  Assigned issue [#10650](https://github.com/CherryHQ/cherry-studio/issues/10650) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

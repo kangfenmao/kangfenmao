@@ -56,6 +56,6 @@ Gitea: [git.easys.run](https://git.easys.run)
 1. 🗣 Commented on [#11560](https://github.com/CherryHQ/cherry-studio/issues/11560#issuecomment-3594933971) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 2. 🔒 Closed issue [#11451](https://github.com/CherryHQ/cherry-studio/issues/11451) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 3. 🗣 Commented on [#11193](https://github.com/CherryHQ/cherry-studio/pull/11193#issuecomment-3575180821) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 💪 Opened PR [#11392](undefined) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 💪 Opened PR [#11372](undefined) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. ❌ Merged PR [#11392](undefined) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. ❌ Merged PR [#11371](undefined) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

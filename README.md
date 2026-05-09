@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#14631](https://github.com/CherryHQ/cherry-studio/pull/14631) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. ℹ️ Assigned PR [#14940](https://github.com/CherryHQ/cherry-studio/pull/14940) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. ℹ️ Unassigned PR [#14442](https://github.com/CherryHQ/cherry-studio/pull/14442) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. ℹ️ Assigned PR [#14442](https://github.com/CherryHQ/cherry-studio/pull/14442) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ℹ️ Assigned PR [#14862](https://github.com/CherryHQ/cherry-studio/pull/14862) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#14631](https://github.com/CherryHQ/cherry-studio/pull/14631#issuecomment-4413429460) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. ℹ️ Assigned PR [#14862](https://github.com/CherryHQ/cherry-studio/pull/14862) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ℹ️ Assigned PR [#14313](https://github.com/CherryHQ/cherry-studio/pull/14313) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. ℹ️ Unassigned PR [#14313](https://github.com/CherryHQ/cherry-studio/pull/14313) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. ℹ️ Assigned PR [#14631](https://github.com/CherryHQ/cherry-studio/pull/14631) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

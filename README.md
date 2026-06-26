@@ -53,9 +53,9 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16142](https://github.com/CherryHQ/cherry-studio/issues/16142#issuecomment-4737754380) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#16346](https://github.com/CherryHQ/cherry-studio/pull/16346#issuecomment-4796840194) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#16142](https://github.com/CherryHQ/cherry-studio/issues/16142#issuecomment-4737898210) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#16142](https://github.com/CherryHQ/cherry-studio/issues/16142#issuecomment-4737808737) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🎉 Merged PR [#16105](https://github.com/CherryHQ/cherry-studio/pull/16105) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#16414](https://github.com/CherryHQ/cherry-studio/pull/16414#issuecomment-4806217676) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. ℹ️ Labeled PR [#16432](https://github.com/CherryHQ/cherry-studio/pull/16432) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ℹ️ Labeled PR [#16426](https://github.com/CherryHQ/cherry-studio/pull/16426) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. ℹ️ Labeled PR [#16427](https://github.com/CherryHQ/cherry-studio/pull/16427) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. ℹ️ Labeled PR [#16428](https://github.com/CherryHQ/cherry-studio/pull/16428) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->

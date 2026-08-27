@@ -53,8 +53,8 @@ Gitea: [git.easys.run](https://git.easys.run)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#19549](https://github.com/CherryHQ/cherry-studio/issues/19549) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. ℹ️ Assigned issue [#19547](https://github.com/CherryHQ/cherry-studio/issues/19547) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. ℹ️ Assigned PR [#18903](https://github.com/CherryHQ/cherry-studio/pull/18903) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. ❌ Closed PR [#19418](https://github.com/CherryHQ/cherry-studio/pull/19418) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 3. ℹ️ Assigned issue [#16124](https://github.com/CherryHQ/cherry-studio/issues/16124) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 4. ℹ️ Assigned issue [#15663](https://github.com/CherryHQ/cherry-studio/issues/15663) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 5. ℹ️ Assigned issue [#19550](https://github.com/CherryHQ/cherry-studio/issues/19550) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
